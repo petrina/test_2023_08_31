@@ -38,9 +38,9 @@ POST /api/auth
 
 **Params**:
 
-_email_ users -> email
+_email_ table users -> email
 
-_token_  users -> token
+_token_  table users -> token
 
 **Response**:
 
