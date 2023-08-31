@@ -21,7 +21,9 @@ Example:
 ## Install
 ``git clone``
 
-``update .env file``
+``copy .env.example to .env``
+
+``update connection in .env``
 
 `` add to .env next params ``
 - TIME_LIVE_AUTH_TOKEN_MINUTES=10
